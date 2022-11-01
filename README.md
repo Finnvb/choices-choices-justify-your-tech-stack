@@ -3,6 +3,7 @@
 # Justify your Tech-stack
 
 In de wiki heb ik een tech-stack onderzoek geschreven voor de Ilojo Bar opdracht. Ik heb deze sprint gewerkt aan dezelfde user story maar dan met een andere framework (React).
+
 [Sveltekit + prismic.io](https://github.com/Finnvb/lose-your-head-the-client-case)  
 
 
