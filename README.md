@@ -1,19 +1,12 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Justify your Tech-stack
 
-In de [wiki](https://github.com/Finnvb/choices-choices-justify-your-tech-stack/wiki) heb ik een tech-stack onderzoek geschreven voor de Ilojo Bar opdracht. Ik heb deze sprint gewerkt aan dezelfde user story maar dan met een andere framework (React).
+In de [wiki](https://github.com/Finnvb/choices-choices-justify-your-tech-stack/wiki) heb ik een tech-stack onderzoek geschreven voor de Ilojo Bar opdracht. Ik heb deze sprint gewerkt aan dezelfde user story maar dan met een andere framework (React). 
 
 [Sveltekit + prismic.io](https://github.com/Finnvb/lose-your-head-the-client-case)  
 
 
 [React + prismic.io](https://github.com/Finnvb/choices-choices-the-tech-stack)
 
-
-
-
-
-<!-- Haal bovenstaande tekst weg! -->
 
 
 <!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
